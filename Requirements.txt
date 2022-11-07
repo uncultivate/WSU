@@ -3,3 +3,4 @@ pip install pandas
 pip install numpy
 pip install altair
 pip install seaborn
+pip install matplotlib
