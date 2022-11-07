@@ -1,3 +1,9 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install numpy
+pip install altair
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
