@@ -1,0 +1,35 @@
+Australian Bureau of Statistics,,,,,,,,,,,
+,,,,,,,,,,,
+"2016 Census - Employment, Income and Education",,,,,,,,,,,
+INCP Total Personal Income (weekly) by LGA (UR),,,,,,,,,,,
+Counting: Persons Place of Usual Residence,,,,,,,,,,,
+,,,,,,,,,,,
+Filters:,,,,,,,,,,,
+Default Summation,Persons Place of Usual Residence,,,,,,,,,,
+,,,,,,,,,,,
+LGA (UR),Blacktown,Blue Mountains,Camden,Campbelltown (NSW),Fairfield,Hawkesbury,Liverpool,Parramatta,Penrith,Wollondilly,Total
+INCP Total Personal Income (weekly),,,,,,,,,,,
+<0,1599,216,216,620,1446,263,976,981,742,143,7197
+0,31289,4771,5303,13263,21469,4121,19210,24321,13628,3242,140612
+149,10674,2843,2367,5060,7486,2073,6703,7522,5859,1578,52158
+299,17768,4091,3141,9042,18018,3200,12869,11055,9479,2268,90935
+399,20497,5001,3886,10813,20316,3839,14164,12133,11928,3017,105602
+499,18413,5807,3691,9794,15278,3973,11860,11709,11669,2680,94883
+649,17261,5201,3980,9203,11530,4029,10560,11165,10958,2696,86585
+799,20529,4745,4501,10609,12311,4164,12006,11933,12401,2989,96189
+999,24754,5054,5369,12217,12935,4741,13698,14400,15116,3337,111617
+1249,25286,5129,6229,11666,11277,5034,13813,16433,16143,3544,114555
+1499,16704,3780,4671,7451,6580,3475,9010,11993,10778,2469,76911
+1749,12847,3463,3933,5496,4409,2924,6864,10604,8467,2141,61157
+1999,8654,2796,2907,3288,2566,1985,4573,7931,5622,1617,41938
+2999,11170,3844,3799,3780,2771,2531,5261,12173,6535,2155,54021
+High,3480,1575,1324,1132,1050,1002,1977,4954,2177,913,19584
+Total,240946,58304,55309,113437,149433,47354,143549,169302,141509,34793,1153937
+,,,,,,,,,,,
+"Dataset: Census of Population and Housing, 2016, TableBuilder",,,,,,,,,,,
+,,,,,,,,,,,
+INFO,Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells.,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright",,,,,,,,,,,
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby",,,,,,,,,,,

@@ -1,0 +1,30 @@
+Australian Bureau of Statistics
+
+"2021 Census - employment, income and education"
+"1-digit level HEAP Level of Highest Educational Attainment by LGA (UR)"
+"Counting: Person Records"
+
+Filters:
+"Default Summation","Person Records"
+
+"LGA (UR)","Blacktown","Blue Mountains","Camden","Campbelltown (NSW)","Fairfield","Hawkesbury","Liverpool","Parramatta","Penrith","Wollondilly","Total",
+"1-digit level HEAP Level of Highest Educational Attainment",
+"Postgraduate Degree Level",25463,5806,4527,7798,3386,1936,8360,31116,7065,1232,96687,
+"Graduate Diploma and Graduate Certificate Level",4749,2438,1601,1804,1117,918,2044,4783,2333,624,22415,
+"Bachelor Degree Level",59472,12828,13117,18991,18272,5764,26180,56928,20257,4179,235988,
+"Advanced Diploma and Diploma Level",27446,7471,9771,12318,12338,5408,17243,20074,15202,4035,131302,
+"Certificate III & IV Level",38551,10950,18182,21977,17150,13024,24180,17501,34023,10865,206397,
+"Secondary Education - Years 10 and above",92433,16005,28071,46800,63540,16971,62164,48160,58210,13308,445645,
+"Certificate I & II Level",224,42,64,169,228,52,191,89,166,39,1265,
+"Secondary Education - Years 9 and below",21688,3255,5980,11172,23805,4636,15802,8866,14025,3515,112755,
+"Supplementary Codes",11320,2184,3149,5171,16443,1773,9969,7377,5641,1367,64399,
+"Not stated",25299,3523,4775,11467,14950,3870,15738,15197,14626,3074,112516,
+"Not applicable",90124,13628,30093,38859,37247,12849,51573,46643,46117,11725,378858,
+"Total",396776,78121,119325,176519,208475,67207,233446,256729,217664,53961,1808226,
+
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells."
+
+
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright"
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby"
