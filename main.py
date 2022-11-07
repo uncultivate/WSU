@@ -1,5 +1,4 @@
 import pandas as pd
-import seaborn as sns
 import streamlit as st
 import numpy as np
 import altair as alt
