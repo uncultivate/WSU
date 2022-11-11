@@ -6,7 +6,7 @@ import altair as alt
 
 st.title('Western Sydney Census Analysis')
 
-all_lgas = ["Blacktown","Blue Mountains","Camden","Campbelltown (NSW)","Fairfield","Hawkesbury","Liverpool","Parramatta","Penrith","Wollondilly"]
+all_lgas = ["Blacktown","Blue Mountains","Camden","Campbelltown (NSW)","Canterbury-Bankstown","Cumberland","Fairfield","Hawkesbury","Liverpool","Parramatta","Penrith","The Hills","Wollondilly"]
 
 with st.sidebar:
     c_2016 = st.checkbox("Census 2016", value=True)
@@ -21,17 +21,17 @@ with st.sidebar:
 
 
 
-demo = pd.read_csv('demo.csv', skiprows=9, nrows=5)
+demo = pd.read_csv('demo2.csv', skiprows=9, nrows=17)
 demo.index = demo['LGA (UR)']
-industry = pd.read_csv('industry.csv', skiprows=9, nrows=20)
-income = pd.read_csv('income.csv', skiprows=9, nrows=20)
-education = pd.read_csv('education.csv', skiprows=9, nrows=11)
+industry = pd.read_csv('ind2.csv', skiprows=9, nrows=20)
+income = pd.read_csv('inc2.csv', skiprows=9, nrows=20)
+education = pd.read_csv('edu2.csv', skiprows=9, nrows=11)
 
-demo16 = pd.read_csv('demo16.csv', skiprows=9, nrows=5)
+demo16 = pd.read_csv('demo162.csv', skiprows=9, nrows=17)
 demo16.index = demo['LGA (UR)']
-industry16 = pd.read_csv('industry16.csv', skiprows=9, nrows=20)
-income16 = pd.read_csv('income16.csv', skiprows=9, nrows=20)
-education16 = pd.read_csv('education16.csv', skiprows=9, nrows=11)
+industry16 = pd.read_csv('ind162.csv', skiprows=9, nrows=20)
+income16 = pd.read_csv('inc162.csv', skiprows=9, nrows=20)
+education16 = pd.read_csv('edu162.csv', skiprows=9, nrows=11)
 
 
 if category == 'Population':
@@ -60,9 +60,9 @@ if category == 'Education':
     st.write("This page measures the highest level of educational achievement. LGAs trending upwards for Bachelor and Post Grad are an indicator of increased demand in coming years")
     
     #tidy dfs
-    edu = education.iloc[:-2,:]
+    edu = education.iloc[:-3,:]
     edu.index = edu['LGA (UR)']
-    edu16 = education16.iloc[:-2,:-1]
+    edu16 = education16.iloc[:-3,:-1]
     edu16.index = edu16['LGA (UR)']
     
     #add DataFrames to subplots

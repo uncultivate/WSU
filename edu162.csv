@@ -1,0 +1,27 @@
+Australian Bureau of Statistics,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"2016 Census - Employment, Income and Education",,,,,,,,,,,,,,
+HEAP - 1 Digit Level by LGA (UR),,,,,,,,,,,,,,
+Counting: Persons Place of Usual Residence,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Filters:,,,,,,,,,,,,,,
+Default Summation,Persons Place of Usual Residence,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+LGA (UR),Blacktown,Blue Mountains,Camden,Campbelltown (NSW),Fairfield,Hawkesbury,Liverpool,Parramatta,Penrith,Wollondilly,Canterbury-Bankstown,Cumberland,The Hills,Total
+HEAP - 1 Digit Level,,,,,,,,,,,,,,
+Post Grad,14018,4194,1843,4639,2615,1275,4955,21221,4382,929,12866,10072,10784,93786
+Grad Dip / Cert,2986,2035,867,1204,782,708,1304,3648,1603,470,2919,1717,2672,22911
+Bachelor,40308,11043,6967,13056,14810,4782,18630,43752,14733,3369,38458,26254,27955,264123
+Diploma,22968,7364,6138,10442,11535,4841,14168,17086,12997,3485,23623,14556,13783,162998
+Cert III & IV,35573,10638,12329,20734,17363,11952,22026,16453,30272,9142,31027,16778,15013,249310
+> Year 10,88457,16596,19916,44814,62567,16663,56448,48797,55580,12155,96395,59142,35312,612842
+< Year 9,22785,3561,4687,11314,23322,4883,15590,9331,14539,3263,28420,16687,6293,164683
+Total,227093,55447,52744,106198,133003,45103,133126,160290,134115,32813,233701,145210,111815,1570652
+,,,,,,,,,,,,,,
+"Dataset: Census of Population and Housing, 2016, TableBuilder",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+INFO,Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells.,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright",,,,,,,,,,,,,,
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby",,,,,,,,,,,,,,

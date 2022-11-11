@@ -1,0 +1,37 @@
+Australian Bureau of Statistics
+
+"2021 Census - employment, income and education"
+"1-digit level INDP Industry of Employment by LGA (UR)"
+"Counting: Person Records"
+
+Filters:
+"Default Summation","Person Records"
+
+"LGA (UR)","Blacktown","Blue Mountains","Camden","Campbelltown (NSW)","Fairfield","Hawkesbury","Liverpool","Parramatta","Penrith","Wollondilly","Canterbury-Bankstown","Cumberland","The Hills","Total",
+"1-digit level INDP Industry of Employment",
+"Agriculture, Forestry and Fishing",667,250,449,244,419,1015,619,278,764,561,261,225,576,6314,
+"Mining",258,123,193,150,69,143,93,144,227,392,102,95,180,2162,
+"Manufacturing",13070,1664,4172,6251,7283,2423,7397,6566,7578,2056,8393,5978,5399,78232,
+"Electricity, Gas, Water and Waste Services",1953,459,670,719,478,455,845,1027,1533,422,856,679,869,10967,
+"Construction",12635,3143,7607,5683,5353,5450,7633,8045,12229,4441,10925,6727,8915,98781,
+"Wholesale Trade",6990,774,1984,2390,2441,1021,3189,4869,3652,815,4322,2990,4149,39582,
+"Retail Trade",17453,2879,5810,7532,7042,2886,8925,10518,10234,2332,13579,8537,8821,106558,
+"Accommodation and Food Services",8000,2177,2868,3865,3678,1590,4488,6285,5252,1191,7583,5155,4013,56154,
+"Transport, Postal and Warehousing",14215,1255,4017,6116,4961,1592,7367,5541,7527,1576,9985,5646,3160,72961,
+"Information Media and Telecommunications",3370,578,626,966,767,305,1203,3145,1087,174,2450,1510,2325,18512,
+"Financial and Insurance Services",11114,1024,2339,3095,2996,709,4498,9659,4056,549,7529,5269,7846,60682,
+"Rental, Hiring and Real Estate Services",2237,536,1002,915,809,520,1213,2274,1610,422,2115,1080,1984,16704,
+"Professional, Scientific and Technical Services",12925,2700,3109,3876,3293,1583,5070,15913,4706,1162,10066,6915,11146,82473,
+"Administrative and Support Services",5563,996,1586,2483,2243,943,2905,3851,2994,715,4419,3443,2409,34542,
+"Public Administration and Safety",9993,3260,3967,4487,2668,2128,5983,6368,7073,1619,7229,4251,4750,63765,
+"Education and Training",12152,5476,5853,5489,3906,3083,7125,10012,8153,2500,11441,5570,8942,89698,
+"Health Care and Social Assistance",25813,5884,7655,11389,7356,3740,12455,17519,13464,2937,17425,12538,12690,150886,
+"Arts and Recreation Services",1465,765,639,701,522,494,944,1372,1174,275,1702,735,1053,11839,
+"Total",159876,33941,54550,66339,56286,30085,81959,113379,93311,24142,120385,77337,89219,1000821,
+
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells."
+
+
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright"
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby"

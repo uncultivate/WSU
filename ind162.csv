@@ -1,0 +1,38 @@
+Australian Bureau of Statistics,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"2016 Census - Employment, Income and Education",,,,,,,,,,,,,,
+INDP - 1 Digit Level by LGA (UR),,,,,,,,,,,,,,
+Counting: Persons Place of Usual Residence,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Filters:,,,,,,,,,,,,,,
+Default Summation,Persons Place of Usual Residence,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+LGA (UR),Blacktown,Blue Mountains,Camden,Campbelltown (NSW),Fairfield,Hawkesbury,Liverpool,Parramatta,Penrith,Wollondilly,Canterbury-Bankstown,Cumberland,The Hills,Total
+INDP - 1 Digit Level,,,,,,,,,,,,,,
+"Agriculture, Forestry and Fishing",685,285,379,219,487,931,651,192,725,569,251,202,481,6051
+Mining,204,122,194,134,88,113,123,125,183,402,105,84,170,2056
+Manufacturing,12489,1761,3058,6493,8554,2403,7786,6148,7483,1960,9189,6290,4916,78519
+"Electricity, Gas, Water and Waste Services",1552,440,444,690,526,419,711,863,1349,360,853,584,750,9539
+Construction,12182,2918,4904,5811,7403,4910,8346,7258,11045,3559,13114,9223,7383,98057
+Wholesale Trade,6914,807,1460,2464,2753,1034,3234,4820,3674,736,4751,3217,3937,39805
+Retail Trade,16039,2974,4252,7432,7890,3080,8459,9638,10012,2268,14416,8745,8260,103462
+Accommodation and Food Services,8444,2634,2075,4327,4721,1715,4739,6251,5592,1162,10053,6611,3797,62123
+"Transport, Postal and Warehousing",11441,1293,2681,5605,4849,1496,6557,4586,6714,1487,10590,5422,2540,65253
+Information Media and Telecommunications,3072,611,489,988,1046,474,1259,3178,1213,181,2729,1643,2070,18958
+Financial and Insurance Services,8723,1006,1490,3062,3056,735,3819,7656,4061,587,6917,4711,5412,51248
+"Rental, Hiring and Real Estate Services",1861,603,765,979,963,503,1125,1963,1522,413,2095,1121,1759,15658
+"Professional, Scientific and Technical Services",8943,2317,2022,3279,3323,1474,4047,12199,4092,1126,8759,5580,8316,65477
+Administrative and Support Services,5203,1106,1142,2506,2558,945,2884,3802,3124,691,5456,3548,2222,35201
+Public Administration and Safety,9208,3191,2773,4262,2757,2301,5280,5757,6735,1462,6974,4127,3956,58794
+Education and Training,9523,5305,3714,4823,3769,2762,5660,8401,6841,2176,10028,4915,7439,75355
+Health Care and Social Assistance,19204,5238,4135,8543,6728,3189,9586,13340,10384,2372,14976,10327,9228,117249
+Arts and Recreation Services,1585,834,540,771,785,566,1008,1443,1285,316,1900,892,1113,13058
+Total,137274,33439,36512,62384,62265,29051,75274,97625,86050,21824,123147,77251,73749,915847
+,,,,,,,,,,,,,,
+"Dataset: Census of Population and Housing, 2016, TableBuilder",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+INFO,Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells.,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright",,,,,,,,,,,,,,
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby",,,,,,,,,,,,,,
