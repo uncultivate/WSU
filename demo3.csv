@@ -1,0 +1,22 @@
+Australian Bureau of Statistics,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"2021 Census - counting persons, place of usual residence",,,,,,,,,,,,,
+AGE5P Age in Five Year Groups by LGA (UR),,,,,,,,,,,,,
+Counting: Person Records,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Filters:,,,,,,,,,,,,,
+Default Summation,Person Records,,,,,,,,,,,,
+,,,,,,,,,,,,,
+LGA (UR),Blacktown,Blue Mountains,Camden,Campbelltown (NSW),Canterbury-Bankstown,Cumberland,Fairfield,Hawkesbury,Liverpool,Penrith,Parramatta,The Hills,Wollondilly
+10-14 years,28829,5037,8890,12302,24009,14394,13693,4459,17236,14869,13966,14852,4026
+15-19 years,24375,4665,7498,10930,22662,12646,14439,4391,16212,13523,11542,13071,3712
+20-24 years,26427,3421,6987,11285,25124,18657,14686,4245,16481,14793,16999,11436,3188
+Total,79634,13124,23375,34513,71796,45699,42815,13094,49934,43186,42507,39357,10933
+,,,,,,,,,,,,,
+"Dataset: Census of Population and Housing, 2021, TableBuilder",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+INFO,Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells.,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright",,,,,,,,,,,,,
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby",,,,,,,,,,,,,
