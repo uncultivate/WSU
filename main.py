@@ -60,7 +60,7 @@ if category == 'Population':
         if not c_2021:
             d.pop("2021")
         if not c_2026:
-            d.pop("2021")
+            d.pop("2026")
         df = pd.DataFrame(data=d)
         st.line_chart(data=df)
 
