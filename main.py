@@ -11,6 +11,7 @@ all_lgas = ["Blacktown","Blue Mountains","Camden","Campbelltown (NSW)","Canterbu
 with st.sidebar:
     c_2016 = st.checkbox("Census 2016", value=True)
     c_2021 = st.checkbox("Census 2021", value=True)
+    c_2026 = st.checkbox("2026 Projections", value=True)
 
     selected_lgas = st.multiselect(
         "LGAs", options=all_lgas, default=all_lgas
@@ -44,17 +45,21 @@ if category == 'Population':
     #tidy dfs
     demog = demo.iloc[:-1,:]
     demog16 = demo16.iloc[:-1,:]
+    demog26 = demo26.iloc[:-1,:]
 
     #add DataFrames to subplots
     for lga in selected_lgas:
         st.subheader(lga)
         c16 = demog16[lga].iloc[1:]
         c21 = demog[lga].iloc[1:]
-        d = {'2016': c16, '2021': c21}
+        c26 = demog26[lga].iloc[1:]
+        d = {'2016': c16, '2021': c21, '2026': c26}
         
         if not c_2016:
             d.pop("2016")
         if not c_2021:
+            d.pop("2021")
+        if not c_2026:
             d.pop("2021")
         df = pd.DataFrame(data=d)
         st.line_chart(data=df)

@@ -7,7 +7,7 @@ Counting: Persons Place of Usual Residence,,,,,,,,,,,,,,
 Filters:,,,,,,,,,,,,,,
 Default Summation,Persons Place of Usual Residence,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-LGA (UR),Blacktown (C),Blue Mountains (C),Camden (A),Campbelltown (C) (NSW),Canterbury-Bankstown (A),Cumberland (A),Fairfield (C),Hawkesbury (C),Liverpool (C),Parramatta (C),Penrith (C),The Hills Shire (A),Wollondilly (A),Total
+LGA (UR),Blacktown,Blue Mountains,Camden,Campbelltown (NSW),Canterbury-Bankstown,Cumberland,Fairfield,Hawkesbury,Liverpool,Penrith,Parramatta,The Hills,Wollondilly,Total
 10-14 years,23122,4918,5829,10606,21879,12325,13066,4409,15027,11152,12695,11691,3631,150353
 15-19 years,23289,4771,5355,10651,21867,12534,14169,4581,14886,11505,13034,11257,3412,151307
 20-24 years,22835,3633,4844,11451,24489,17156,15334,4387,14552,14861,14119,9711,2899,160275
