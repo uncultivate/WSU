@@ -22,19 +22,19 @@ with st.sidebar:
 
 
 
-demo = pd.read_csv('demo3.csv', skiprows=9, nrows=4)
+demo = pd.read_csv('demo3.csv', skiprows=9, nrows=5)
 demo.index = demo['LGA (UR)']
 industry = pd.read_csv('ind2.csv', skiprows=9, nrows=20)
 income = pd.read_csv('inc2.csv', skiprows=9, nrows=20)
 education = pd.read_csv('edu2.csv', skiprows=9, nrows=11)
 
-demo16 = pd.read_csv('demo163.csv', skiprows=9, nrows=4)
+demo16 = pd.read_csv('demo163.csv', skiprows=9, nrows=5)
 demo16.index = demo['LGA (UR)']
 industry16 = pd.read_csv('ind162.csv', skiprows=9, nrows=20)
 income16 = pd.read_csv('inc162.csv', skiprows=9, nrows=20)
 education16 = pd.read_csv('edu162.csv', skiprows=9, nrows=11)
 
-demo26 = pd.read_csv('demo4.csv', skiprows=9, nrows=4)
+demo26 = pd.read_csv('demo4.csv', skiprows=9, nrows=5)
 demo26.index = demo['LGA (UR)']
 
 
