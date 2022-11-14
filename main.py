@@ -43,16 +43,16 @@ if category == 'Population':
     st.subheader('Population')
     st.write('The ABS estimates that the population in NSW is increasing by 0.5% per year, which is probably a couple of points lower than what we are seeing here.')
     #tidy dfs
-    demog = demo.iloc[:,:]
-    demog16 = demo16.iloc[:,:]
-    demog26 = demo26.iloc[:,:]
+    demog = demo.iloc[:-1,:]
+    demog16 = demo16.iloc[:-1,:]
+    demog26 = demo26.iloc[:-1,:]
 
     #add DataFrames to subplots
     for lga in selected_lgas:
         st.subheader(lga)
-        c16 = demog16[lga].iloc[1:]
-        c21 = demog[lga].iloc[1:]
-        c26 = demog26[lga].iloc[1:]
+        c16 = demog16[lga]
+        c21 = demog[lga]
+        c26 = demog26[lga]
         d = {'2016': c16, '2021': c21, '2026': c26}
         
         if not c_2016:
